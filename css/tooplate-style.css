@@ -440,6 +440,11 @@ strong {
 .contact-form .form-control:not(textarea) {
   height: 48px;
 }
+
+.download-container {
+  margin: 80px 0;
+}
+
 .contact-form .form-control:hover,
 .contact-form .form-control:focus {
   border-color: #2255ff;
