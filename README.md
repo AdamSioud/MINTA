@@ -1,4 +1,5 @@
-# MINTA
-Four students hack their way thorugh the Soalnd Riptide Hackathon
+# WEBSIDE BRANCH
 
-We changed name from eeNFTee to MINTA
+This branch is used to host our website
+
+
