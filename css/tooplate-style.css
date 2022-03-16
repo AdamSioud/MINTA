@@ -42,7 +42,20 @@ a:hover {
   color: #2255ff !important;
 }
 
-.navbar-brand .uil {
+.navbar-brand {
+  font-size: 40px;
+}
+
+.logo-text {
+  padding-top: 1rem;
+}
+
+.camera {
+  float: left;
+  padding-top: 3rem;
+}
+
+.uil {
   font-size: 40px;
 }
 
