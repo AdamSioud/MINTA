@@ -13,7 +13,7 @@ body {
 }
 
 .full-screen {
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 
 .small-text {
@@ -506,7 +506,7 @@ strong {
 }
 @media (max-width: 991px) {
   .full-screen {
-    padding-bottom: 4rem;
+    padding-bottom: 1rem;
   }
 
   .color-mode {
