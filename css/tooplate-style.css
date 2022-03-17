@@ -284,10 +284,12 @@ strong {
   display: block;
 }
 
-.color-mode {
+.try-me {
+  font-size: 26px;
   font-weight: bold;
   cursor: pointer;
 }
+
 
 .color-mode-icon {
   position: relative;
