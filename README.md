@@ -1,5 +1,5 @@
 # MINTA
-## Four students hack their way thorugh the Soalnd Riptide Hackathon
+## Four students hack their way through the Soalnd Riptide Hackathon
 
 <div id="top"></div>
 
