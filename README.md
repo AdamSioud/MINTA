@@ -19,7 +19,6 @@
   <p align="center">
     minta.world
     <br />
-    <a href="https://github.com/AdamSioud/Minta"><strong>Explore the webiste »</strong></a>
      <br />
       <a href="https://github.com/AdamSioud/MINTA-IOS-APP"><strong>Explore the IOS Repo »</strong></a>
         <br />
